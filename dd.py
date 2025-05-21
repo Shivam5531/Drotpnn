@@ -130,7 +130,7 @@ def index():
     <html>
     <head>
         <title>Readyacc Dashboard</title>
-        <meta http-equiv="refresh" content="4">
+        <meta http-equiv="refresh" content="3">
         <style>
             body { font-family: Arial; background: #111; color: #0f0; padding: 2rem; }
             h1, h2 { color: #0f0; }
