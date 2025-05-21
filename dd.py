@@ -9,7 +9,7 @@ app = Flask(__name__)
 app.secret_key = "your_secret_key_here"
 
 # --- TrustOTP CONFIG ---
-api_key = "mbniexe455ekdzuizwhbubgmg2net7z4"
+api_key = "in29f1lf83xopsrkadh70f1xspr9g4mt"
 service = "5909"
 country = "86"
 base_url = "https://otpdoctor.in/stubs/handler_api.php"
